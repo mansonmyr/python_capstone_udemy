@@ -1,5 +1,5 @@
 # python_capstone_udemy
-This repository host my capstone project learned through Udemy on the course of Dr. Angela Yu's 100 Days of Code™: The Complete Python Pro Bootcamp. It's purpose is to record and shows my python programming work.
+This repository host my capstone project learned through Udemy on the course of Dr. Angela Yu's 100 Days of Code™: The Complete Python Pro Bootcamp. It's purpose is to record and shows my python programming work, that is linked from my LinkedIn profile.
 Capstone:
 1) Blackjack in IDE Terminal
 2) .
