@@ -3,7 +3,7 @@ This repository host my capstone project learned through Udemy on the course of 
 
 Capstone:
 1) Blackjack in IDE Terminal
-2) .
+2) Turtle Crossing
 3) .
 4) .
 5) .
