@@ -9,7 +9,7 @@ Capstone:
 5) .
 
 Portfolio:
-1) .
+1) Text to Morse Code Converter
 2) .
 3) .
 4) .
