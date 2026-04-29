@@ -32,4 +32,5 @@ Portfolio:
 
 Other:
 1) Pong Game
-2) Password Manager
+2) Pomodoro
+3) Password Manager
