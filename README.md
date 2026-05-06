@@ -5,8 +5,6 @@ Capstone:
 1) Blackjack in IDE Terminal
 2) Turtle Crossing
 3) Flashcard App
-4) Web Scraping (Data Entry)
-5) Predict House Price
 
 Portfolio:
 1) Text to Morse Code Converter
