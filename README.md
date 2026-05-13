@@ -8,7 +8,7 @@ Capstone:
 
 Portfolio:
 1) Text to Morse Code Converter
-2) Personal Website (https://mansonmyr.github.io/kaiong.github.io/)
+2) Personal Website (https://mansonmyr.github.io/kaihong.github.io/)
 
 Other:
 1) Pong Game
