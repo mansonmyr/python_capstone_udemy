@@ -1,6 +1,7 @@
-# python_portfolio_udemy
-This repository host my capstone project learned through Udemy on the course of Dr. Angela Yu's 100 Days of Code™: The Complete Python Pro Bootcamp. It's purpose is to record and shows my python programming work, that is linked from my LinkedIn profile.
+# Capstone/Portfolio 
+This repository host my capstone/portfolio learned through Udemy. It's purpose is to record and shows my python programming work, that is linked from my LinkedIn profile.
 
+## Udemy Course: 100 Days of Code™: The Complete Python Pro Bootcamp
 Portfolio:
 1) Text to Morse Code Converter
 2) Personal Website (https://mansonmyr.github.io/kaihong.github.io/)
@@ -9,3 +10,7 @@ Portfolio:
 5) Flashcard App
 6) Pong Game
 7) Pomodoro
+
+## Udemy Course: Python for Machine Learning & Data Science Masterclass
+Capstone:
+1) 
